@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# MyInfo Demo App
+# MyInfo Demo App with mods
 
 The demo application meant to illustrate how to integrate your application with MyInfo APIs.
 
